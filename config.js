@@ -52,9 +52,9 @@ var config = {
         },
         {
             id: 'chapter-one',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
-            title: 'Someplace Georgia',
+            title: 'Harrisonburg',
             image: './assets/alice_walker_childhood_home.jpg',
             description: 'Description of the second location.',
             location: {
