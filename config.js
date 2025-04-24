@@ -94,6 +94,31 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+{
+            id: 'chapter-harrisonburg',
+            alignment: 'right',
+            hidden: false,
+            title: 'new title',
+            image: '512px-Keezell_Hall_(JMU).jpg',
+            description: 'new description',
+            location: {
+                center: [-78.87287632435259, 38.43871122711081], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },        
         {
             id: 'chapter-three',
             alignment: 'fully',
