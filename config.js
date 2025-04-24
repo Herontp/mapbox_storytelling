@@ -52,11 +52,11 @@ var config = {
         },
         {
             id: 'chapter-one',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Harrisonburg',
-            image: './assets/alice_walker_childhood_home.jpg',
-            description: 'Description of the second location.',
+            image: '512px-Keezell_Hall_(JMU).jpg',
+            description: 'This is where we have class',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
