@@ -15,7 +15,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Looking at purchase types in the south from 1890 &apos s',
+    title: 'Looking at purchase types in the south from 1890s through the 21st century s',
     subtitle: 'Spatial Journeys across the South 2',
     byline: 'Joost',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -77,6 +77,56 @@ var config = {
         },
         {
             id: 'chapter-two',
+            alignment: 'right',
+            hidden: false,
+            title: 'Harrisonburg',
+            image: './assets/512px-Keezell_Hall_JMU.jpg',
+            description: 'This is where we have class',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-three',
+            alignment: 'right',
+            hidden: false,
+            title: 'Harrisonburg',
+            image: './assets/512px-Keezell_Hall_JMU.jpg',
+            description: 'This is where we have class',
+            location: {
+                center: [-83.5573651, 32.5573651], 
+                zoom: 6.5,
+                pitch: 60,
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-four',
             alignment: 'left',
             hidden: false,
             title: 'Olinka',
@@ -95,7 +145,7 @@ var config = {
             onChapterExit: []
         },
 {
-            id: 'chapter-harrisonburg',
+            id: 'chapter-five',
             alignment: 'right',
             hidden: false,
             title: 'new title',
@@ -120,7 +170,102 @@ var config = {
             onChapterExit: []
         },        
         {
-            id: 'chapter-three',
+            id: 'chapter-six',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-seven',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-eight',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-nine',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-tne',
+            alignment: 'fully',
+            hidden: false,
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'chapter-conclusion',
             alignment: 'fully',
             hidden: false,
             title: 'End',
