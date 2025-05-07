@@ -246,7 +246,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-tne',
+            id: 'chapter-ten',
             alignment: 'fully',
             hidden: false,
             title: 'End',
