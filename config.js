@@ -58,7 +58,7 @@ var config = {
             image: './assets/512px-Keezell_Hall_JMU.jpg',
             description: 'This is where we have class',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.5574651, 32.5573651], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -83,7 +83,7 @@ var config = {
             image: './assets/512px-Keezell_Hall_JMU.jpg',
             description: 'This is where we have class',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.5573651, 32.3573651], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -108,7 +108,7 @@ var config = {
             image: './assets/512px-Keezell_Hall_JMU.jpg',
             description: 'This is where we have class',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-83.5573651, 32.5572651], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -171,13 +171,13 @@ var config = {
         },        
         {
             id: 'chapter-six',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'six',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-41.47212489646295, 34.781162343274076], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -190,13 +190,13 @@ var config = {
         },
         {
             id: 'chapter-seven',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'seven',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-41.47212412346295, 34.781162343274076], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -209,13 +209,13 @@ var config = {
         },
         {
             id: 'chapter-eight',
-            alignment: 'fully',
+            alignment: 'centered',
             hidden: false,
             title: 'eight',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-41.47212410656295, 34.781162343274076], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -228,13 +228,13 @@ var config = {
         },
         {
             id: 'chapter-nine',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'nine',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-41.47216910646295, 34.781162343274076], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -247,13 +247,13 @@ var config = {
         },
         {
             id: 'chapter-ten',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'ten',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-41.47253410646295, 34.781162343274076], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -266,13 +266,13 @@ var config = {
         },
         {
             id: 'chapter-conclusion',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'End',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-41.47212470646295, 34.781162343274076], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
