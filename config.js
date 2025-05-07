@@ -173,7 +173,7 @@ var config = {
             id: 'chapter-six',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'six',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
@@ -192,7 +192,7 @@ var config = {
             id: 'chapter-seven',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'seven',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
@@ -211,7 +211,7 @@ var config = {
             id: 'chapter-eight',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'eight',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
@@ -230,7 +230,7 @@ var config = {
             id: 'chapter-nine',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'nine',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
@@ -249,7 +249,7 @@ var config = {
             id: 'chapter-ten',
             alignment: 'fully',
             hidden: false,
-            title: 'End',
+            title: 'ten',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
