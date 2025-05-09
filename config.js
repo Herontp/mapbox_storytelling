@@ -27,8 +27,8 @@ var config = {
             title: 'Thesis',
             description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This came at the expense of marginalized groups, who were often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
             location: {
-                center: [-88.19194, 33.14646],
-                zoom: 4,
+                center:[-89.52501, 34.32061],
+                zoom: 11.75,
                 pitch: 30,
                 bearing: 0
             },
@@ -57,10 +57,10 @@ var config = {
             image: 'assets/as_i_lay_dying.jpg',
             description: 'As I Lay Dying tells the story of the Bundren family, a family of poor white farmers who are far removed from the plantation class. Their journey to Jefferson is both a literal odyssey across a fictionalized county as well as a figurative rebellion against the prevailing narrative, showing that “simple” folk can and do travel, and that they hold complex and sometimes contradicting thoughts and feelings.',
             location: {
-                center: [-89.49695, 34.36354], 
-                zoom: 8,
-                pitch: 20,
-                bearing: -43.2,
+                center:[-89.52501, 34.32061],
+                zoom: 11.75,
+                pitch: 30,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -85,7 +85,7 @@ var config = {
                 center: [-89.49695, 34.36354], 
                 zoom: 8,
                 pitch: 20,
-                bearing: -43.2,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -126,17 +126,17 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
+            id: 'chapter-four',
             alignment: 'right',
             hidden: false,
-            title: 'Harrisonburg',
-            image: './assets/512px-Keezell_Hall_JMU.jpg',
+            title: 'Their Eyes Were Watching God',
+            image: './assets/their_eyes_were_watching_god_cover',
             description: 'This is where we have class',
             location: {
                 center: [-83.5573651, 32.5572651], 
-                zoom: 6.5,
+                zoom: 6.91,
                 pitch: 60,
-                bearing: -43.2,
+                bearing: -49.2,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -151,7 +151,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-four',
+            id: 'chapter-five',
             alignment: 'left',
             hidden: false,
             title: 'Olinka',
