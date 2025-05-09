@@ -108,10 +108,10 @@ var config = {
             image: './assets/their_eyes_were_watching_god_cover',
             description: 'Their Eyes Were Watching God tells the story of Janie Crawford in her quest to find happiness. It covers the journey of most of her life, from her marriage to Logan Killicks to her ultimate return to Eatonville. Through Janie, Hurston demonstrates how a Black woman in the early 20th-century South could, despite significant racial and gender constraints, exercise agency in both her economic circumstances and physical movement, establishing her as a fully realized character whose internal journey matters as much as her external one.',
             location: {
-                center: [-83.5573651, 32.3573651], 
-                zoom: 7.5,
+                center: [-83.76769, 28.43978], 
+                zoom: 5.85,
                 pitch: 20,
-                bearing: -43.2,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
