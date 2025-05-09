@@ -54,7 +54,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Harrisonburg',
+            title: 'As I Lay Dying',
             image: './assets/512px-Keezell_Hall_JMU.jpg',
             description: 'This is where we have class',
             location: {
