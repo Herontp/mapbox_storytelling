@@ -131,7 +131,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: './assets/their_eyes_were_watching_god_cover',
-            description: 'This is where we have class',
+            description: 'After her childhood in Georgia, Janie is quickly married to Logan Killicks, a farmer in northern Florida. Their marriage is deeply transactional, and Janie’s value as a person is almost entirely measured by her domestic output. This marriage is the one most consistent with traditional Southern depictions, and the one she is least happy in. She then runs off with Jody, her second husband, to Eatonville. As Jody becomes very successful, and money ceases to be as much of an issue, one would expect Janie to have more agency. However, this change merely transforms her from a farming implement to a display piece; Jody controls all the money, controls with whom she can interact, and even controls how she styles her hair. Unlike the plantation owners of earlier Southern literature, Janie's transactions remain entirely mediated through her husbands.',
             location: {
                 center: [-82.31196, 29.35248], 
                 zoom: 7.7,
