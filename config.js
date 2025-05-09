@@ -105,7 +105,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Their Eyes Were Watching God',
-            image: './assets/their_eyes_were_watching_god_cover',
+            image: 'assets/their_eyes_were_watching_god_cover.jpeg',
             description: 'Their Eyes Were Watching God tells the story of Janie Crawford in her quest to find happiness. It covers the journey of most of her life, from her marriage to Logan Killicks to her ultimate return to Eatonville. Through Janie, Hurston demonstrates how a Black woman in the early 20th-century South could, despite significant racial and gender constraints, exercise agency in both her economic circumstances and physical movement, establishing her as a fully realized character whose internal journey matters as much as her external one.',
             location: {
                 center: [-83.76769, 28.43978], 
@@ -130,7 +130,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God',
-            image: './assets/their_eyes_were_watching_god_cover',
+            image: 'assets/their_eyes_were_watching_god_cover',
             description: 'After her childhood in Georgia, Janie is quickly married to Logan Killicks, a farmer in northern Florida. Their marriage is deeply transactional, and Janie’s value as a person is almost entirely measured by her domestic output. This marriage is the one most consistent with traditional Southern depictions, and the one she is least happy in. She then runs off with Jody, her second husband, to Eatonville. As Jody becomes very successful, and money ceases to be as much of an issue, one would expect Janie to have more agency. However, this change merely transforms her from a farming implement to a display piece; Jody controls all the money, controls with whom she can interact, and even controls how she styles her hair. Unlike the plantation owners of earlier Southern literature, Janie's transactions remain entirely mediated through her husbands.',
             location: {
                 center: [-82.31196, 29.35248], 
