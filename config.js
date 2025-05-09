@@ -101,10 +101,10 @@ var config = {
         },
 
         {
-            id: 'chapter-two',
-            alignment: 'right',
+            id: 'chapter-three',
+            alignment: 'left',
             hidden: false,
-            title: 'Harrisonburg',
+            title: 'Their Eyes Were Watching God',
             image: './assets/512px-Keezell_Hall_JMU.jpg',
             description: 'This is where we have class',
             location: {
