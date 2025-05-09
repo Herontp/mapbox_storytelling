@@ -109,8 +109,8 @@ var config = {
             description: 'This is where we have class',
             location: {
                 center: [-83.5573651, 32.3573651], 
-                zoom: 6.5,
-                pitch: 60,
+                zoom: 7.5,
+                pitch: 20,
                 bearing: -43.2,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
