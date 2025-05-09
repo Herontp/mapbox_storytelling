@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Economic Agency and Mobility in the Postbellum American South',
-    subtitle: 'An analysis of economics and movement in the novels As I Lay Dying by William Faulkner, Their Eyes Were Watching God by Zora Neale Huston, The Color Purple by Alice Walker, and Salvage the Bones by Jesmyn Ward',
+    subtitle: 'An analysis of economics and movement in the novels As I Lay Dying, Their Eyes Were Watching God, The Color Purple by Alice Walker, and Salvage the Bones',
     byline: 'Tyler Heron',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -25,12 +25,12 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Thesis',
-            image: 'assets/coltons_map_southern_states_intro.jpg',
+            image: 'assets/coltons_map_southern_states_INTRO.jpg',
             description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This came at the expense of marginalized groups, who were often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
             location: {
                 center: [-88.19194, 33.14646],
                 zoom: 4,
-                pitch: 60,
+                pitch: 30,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -56,10 +56,10 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying',
             image: 'assets/as_i_lay_dying.jpg',
-            description: 'This is where we have class',
+            description: 'As I Lay Dying tells the story of the Bundren family, a family of poor white farmers who are far removed from the plantation class. Their journey to Jefferson is both a literal odyssey across a fictionalized county as well as a figurative rebellion against the prevailing narrative, showing that “simple” folk can and do travel, and that they hold complex and sometimes contradicting thoughts and feelings.',
             location: {
-                center: [-83.5574651, 32.5573651], 
-                zoom: 6.5,
+                center: [-89.49695, 34.36354], 
+                zoom: 8,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
