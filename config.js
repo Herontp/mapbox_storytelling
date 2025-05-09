@@ -25,10 +25,9 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'The Color Purple',
-            image: './assets/Keezell_Hall.jpg',
-            description: 'This is where I insert a description of the novel',
+            description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This comes at the expense of marginalized groups, who are often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
             location: {
-                center: [-90.3150946, 38.6605671],
+                center: [-87.05917300821935, 34.26964037085037],
                 zoom: 4,
                 pitch: 60,
                 bearing: 0
