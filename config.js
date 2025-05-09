@@ -76,34 +76,29 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'opening',
-            alignment: 'centered',
+            id: 'chapter-two',
+            alignment: 'right',
             hidden: false,
-            title: 'The Color Purple',
-            image: './assets/color_purple_cover.jpg',
-            description: 'This is where I insert a description of the novel',
+            title: 'As I Lay Dying',
+            image: 'assets/as_i_lay_dying.jpg',
+            description: 'Unlike the wealthy landowners who previously dominated Southern literature, the Bundrens’ economic transactions are minor in scale but no less significant in impact. These exchanges range from the serious, such as Dewey Dell’s desperate attempt to obtain money for an abortion, to the seemingly trivial, like Anse’s purchase of false teeth. Crucially, however, these purchases represent a deliberate choice. With this, Faulkner grants agency to characters who, in earlier Southern literature, might have existed only as part of the background or landscape.',
             location: {
-                center: [-90.3150946, 38.6605671],
-                zoom: 4,
+                center: [-89.49695, 34.36354], 
+                zoom: 8,
                 pitch: 60,
-                bearing: 0
+                bearing: -43.2,
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 1, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
+            onChapterEnter: [],
+            onChapterExit: []
         },
 
         {
