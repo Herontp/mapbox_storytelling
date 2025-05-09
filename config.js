@@ -27,8 +27,8 @@ var config = {
             title: 'Thesis',
             description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This came at the expense of marginalized groups, who were often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
             location: {
-                center:[-89.52501, 34.32061],
-                zoom: 11.75,
+                center:[-88.32653, 31.14594],
+                zoom: 4.5,
                 pitch: 30,
                 bearing: 0
             },
@@ -82,9 +82,9 @@ var config = {
             image: 'assets/as_i_lay_dying.jpg',
             description: 'Unlike the wealthy landowners who previously dominated Southern literature, the Bundrens’ economic transactions are minor in scale but no less significant in impact. These exchanges range from the serious, such as Dewey Dell’s desperate attempt to obtain money for an abortion, to the seemingly trivial, like Anse’s purchase of false teeth. Crucially, however, these purchases represent a deliberate choice. With this, Faulkner grants agency to characters who, in earlier Southern literature, might have existed only as part of the background or landscape.',
             location: {
-                center: [-89.49695, 34.36354], 
-                zoom: 8,
-                pitch: 20,
+                center:[-89.52501, 34.32061],
+                zoom: 11.75,
+                pitch: 30,
                 bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
@@ -133,10 +133,10 @@ var config = {
             image: './assets/their_eyes_were_watching_god_cover',
             description: 'This is where we have class',
             location: {
-                center: [-83.5573651, 32.5572651], 
-                zoom: 6.91,
+                center: [-82.31196, 29.35248], 
+                zoom: 7.7,
                 pitch: 60,
-                bearing: -49.2,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
