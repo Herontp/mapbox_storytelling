@@ -130,8 +130,8 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Their Eyes Were Watching God',
-            image: 'assets/their_eyes_were_watching_god_cover',
-            description: 'After her childhood in Georgia, Janie is quickly married to Logan Killicks, a farmer in northern Florida. Their marriage is deeply transactional, and Janie&rsquo;s value as a person is almost entirely measured by her domestic output. This marriage is the one most consistent with traditional Southern depictions, and the one she is least happy in. Nannys declaration that &ldquo;de [black] woman is de mule uh de world/&rdquo; proves prophetic as Logan eventually demands Janie plow alongside actual mules, literally reducing her to the beast-of-burden status Black women were assigned in the economic hierarchy of the South. She then runs off with Jody, her second husband, to Eatonville. As Jody becomes very successful, and money ceases to be as much of an issue, one would expect Janie to have more agency. However, this change merely transforms her from a farming implement to a display piece; Jody controls all the money, controls with whom she can interact, and even controls how she styles her hair. Unlike the plantation owners of earlier Southern literature, Janie&rsquo;s transactions remain entirely mediated through her husbands.',
+            image: 'assets/their_eyes_were_watching_god_cover.jpeg',
+            description: 'After her childhood in Georgia, Janie is quickly married to Logan Killicks, a farmer in northern Florida. Their marriage is deeply transactional, and Janie&rsquo;s value as a person is almost entirely measured by her domestic output. This marriage is the one most consistent with traditional Southern depictions, and the one she is least happy in. Nannys declaration that &ldquo;de [black] woman is de mule uh de world&rdquo; (Hurston 14) proves prophetic as Logan eventually demands Janie plow alongside actual mules, literally reducing her to the beast-of-burden status Black women were assigned in the hierarchy of the South. She then runs off with Jody, her second husband, to Eatonville. As Jody becomes very successful, and money ceases to be as much of an issue, one would expect Janie to have more agency. However, this change merely transforms her from a farming implement to a display piece; Jody controls all the money, controls with whom she can interact, and even controls how she styles her hair. Unlike the plantation owners of earlier Southern literature, Janie&rsquo;s transactions remain entirely mediated through her husbands.',
             location: {
                 center: [-82.31196, 29.35248], 
                 zoom: 7.7,
@@ -154,8 +154,8 @@ var config = {
             id: 'chapter-five',
             alignment: 'left',
             hidden: false,
-            title: 'Olinka',
-            image: './assets/firestone_farm.jpg',
+            title: 'Their Eyes Were Watching God',
+            image: 'assets/their_eyes_were_watching_god_cover.jpeg',
             description: 'Description of the Olinka people',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
