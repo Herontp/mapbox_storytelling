@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'Looking at purchase types in the south from 1890s through the 21st century s',
     subtitle: 'Spatial Journeys across the South 2',
-    byline: 'Joost',
+    byline: 'Tyler Heron',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
