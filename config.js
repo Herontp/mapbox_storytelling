@@ -15,8 +15,8 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Looking at purchase types in the south from 1890s through the 21st century s',
-    subtitle: 'Spatial Journeys across the South 2',
+    title: 'Economic Agency and Mobility in the Postbellum American South',
+    subtitle: 'An analysis of economics and movement in the novels <em>As I Lay Dying</em> by William Faulkner, <em>Their Eyes Were Watching God</em> by Zora Neale Huston, <em>The Color Purple</em> by Alice Walker, and <em>Salvage the Bones</em> by Jesmyn Ward',
     byline: 'Tyler Heron',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -24,10 +24,11 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
-            description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This comes at the expense of marginalized groups, who are often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
+            title: 'Thesis',
+            image: './assets/coltons_map_southern_states_INTRO',
+            description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This came at the expense of marginalized groups, who were often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
             location: {
-                center: [-87.05917300821935, 34.26964037085037],
+                center: [-88.19194, 33.14646],
                 zoom: 4,
                 pitch: 60,
                 bearing: 0
@@ -53,7 +54,7 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Harrisonburg',
+            title: 'As I Lay Dying',
             image: './assets/512px-Keezell_Hall_JMU.jpg',
             description: 'This is where we have class',
             location: {
