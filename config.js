@@ -253,7 +253,7 @@ var config = {
         },
         {
             id: 'chapter-ten',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'nine',
             image: 'assets/katrina_damage_ms.jpg',
