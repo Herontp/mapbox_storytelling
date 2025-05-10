@@ -252,12 +252,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-nine',
+            id: 'chapter-ten',
             alignment: 'right',
             hidden: false,
             title: 'nine',
             image: 'assets/katrina_damage_ms.jpg',
-            description: 'Close of the novel.',
+            description: 'Much like the Bundrens, the Batiste family&rsquo;s inability to evacuate before Katrina reveals how poverty and unforeseen circumstances can restrict movement. They are also marginalized economically, as Papa can’t find steady employment and Skeetah has to fight his dog, China. This marginalization is much more dynamic than Faulkner’s; while the Bundrens are aloof and sometimes hostile to their surrounding community, the Batistes use their community ties and resourcefulness to survive both hardship and an acute natural disaster. Their determination to rebuild after devastating losses represents the most profound expression of agency: the choice to persist.',
             location: {
                 center: [-89.68775, 30.01698], 
                 zoom: 8.47,
@@ -271,31 +271,12 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-ten',
-            alignment: 'left',
-            hidden: false,
-            title: 'ten',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
-            location: {
-                center: [-41.47253410646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'chapter-conclusion',
-            alignment: 'left',
+            alignment: 'Center',
             hidden: false,
-            title: 'End',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'Conclusion',
+            image: 'assets/coltons_map_southern_states_intro.jpg',
+            description: 'In William Faulkner’s acceptance speech for the Nobel Prize, he said, “I believe that man will not merely endure: he will prevail.” and it is the writer’s “privilege to help man endure by lifting his heart, by reminding him of the courage and honor and hope and pride and compassion and pity and sacrifice which have been the glory of his past.” This duty of the writer demands absolute honesty about the human condition, even when that honesty lays bare the ugliness of life, whether it be economic exploitation, sexual or racial oppression, or environmental devastation. <br> These four novels show how Southern literature evolved from romanticized portraits of plantation life to increasingly truthful depictions of existence. Faulkner began this transformation by granting dignity and complexity to the Bundren family, while Hurston, Walker, and Ward expanded it by centering marginalized individuals with complex lives. Their collective insistence on depicting both the harsh reality and meaningful choices makes these works significant; they help humanity not merely to endure, but to prevail, telling the truth about both our shortcomings and our unending march toward freedom..',
             location: {
                 center: [-41.47212470646295, 34.781162343274076], 
                 zoom: 3,
@@ -303,7 +284,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
