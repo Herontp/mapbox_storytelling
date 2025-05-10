@@ -217,9 +217,9 @@ var config = {
             id: 'chapter-eight',
             alignment: 'right',
             hidden: false,
-            title: 'seven',
-            image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            title: 'The Color Purple',
+            image: 'assets/firestone_farm.jpg',
+            description: 'The Color Purple’s most dramatic overhaul is in what constitutes the “South.” While Celie initially remains constrained in Georgia, Nettie&rsquo;s missionary journey to Africa creates a link between the American South and the Global South, connecting marginalized peoples worldwide. This expanded mobility shatters the view of Black characters as stationary. Furthermore, Nettie&rsquo;s letters reveal parallel systems of exploitation: just as slavery exploited Black Americans, imperialism extracts African resources while imposing foreign cultural values.',
             location: {
                 center: [-41.47212412346295, 34.781162343274076], 
                 zoom: 3,
