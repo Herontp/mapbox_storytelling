@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'Economic Agency and Mobility in the Postbellum American South',
     subtitle: 'An analysis of economics and movement in the novels As I Lay Dying, Their Eyes Were Watching God, The Color Purple, and Salvage the Bones',
-    byline: 'Tyler Heron',
+    byline: 'Tyler Hero',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
