@@ -215,7 +215,7 @@ var config = {
         },
         {
             id: 'chapter-eight',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'The Color Purple',
             image: 'assets/firestone_farm.jpg',
@@ -246,7 +246,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -256,12 +256,12 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'nine',
-            image: './assets/color_purple_field.jpg',
+            image: 'assets/katrina_damage_ms.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47216910646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
+                center: [-89.68775, 30.01698], 
+                zoom: 8.47,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
