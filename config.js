@@ -202,8 +202,8 @@ var config = {
             image: './assets/color_purple_field.jpg',
             description: 'Unlike Janie in Their Eyes Were Watching God, Celie’s journey toward agency is inseparable from her economic evolution. In her marriage to Albert, she functions as unpaid labor with no control over household resources. She also lacks freedom of movement and remains stuck in rural Georgia. However, as Celie’s relationship with Shug Avery progresses, she gains knowledge (learning of Nettie&rsquo;s hidden letters), economic skills (developing her pants-making business), freedom of movement (travelling to Memphis), and eventual property ownership (inheriting her biological father&rsquo;s house). Celie’s consummate act of agency, in my opinion, is her forgiveness. She has every reason to be bitter at the world, and yet, she “thank[s] God let [her] gain understanding enough to know love can&rsquo;t be halted just cause some peoples moan and groan” (Walker 267-8). Despite the hopelessness of Celie’s initial position, the novel concludes with a powerful sense of hope and renewal.',
             location: {
-                center: [-87.85153, 34.30318], 
-                zoom: 6,
+                center: [-87.97826, 34.76767], 
+                zoom: 6.19,
                 pitch: 0,
                 bearing: 0
             },
