@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'Thesis',
-            description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This focus came at the expense of marginalized groups, who were often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than is often portrayed.',
+            description: 'Before the works of William Faulkner, Southern literature focused almost exclusively on wealthy white landowners who traveled freely and made their own choices, whether economic or personal. This focus came at the expense of marginalized groups, who were often not fully developed characters but rather a part of the scenery. This tradition is broken, first by Faulkner, whose Bundren family demonstrates how economic desperation transcends racial lines, then by Huston, Walker, and Ward, who show a much more diverse—and much more mobile—South. The four novels thus represent a transition in focus from the planter elite to the everyday individual, who, despite harsh (and sometimes violent) constraints, ultimately have much more agency than was often portrayed.',
             location: {
                 center:[-88.32653, 31.14594],
                 zoom: 4.5,
@@ -136,7 +136,7 @@ var config = {
                 center: [-82.31196, 29.35248], 
                 zoom: 7.7,
                 pitch: 60,
-                bearing: 0,
+                bearing: -30,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -158,8 +158,8 @@ var config = {
             image: 'assets/their_eyes_were_watching_god_cover.jpeg',
             description: 'Jody&rsquo;s death marks a crucial turning point in Janie&rsquo;s pursuit of agency. Her third husband, Tea Cake, offers her significantly more freedom. Money flows in both directions, as Tea Cake takes from her savings but also shares his gambling winnings, ultimately creating a relationship where Janie is able to make independent financial decisions. For her, this sense of agency matters more than the material security that came with submission in previous relationships. Her physical movement also reflects this shift, as she and Tea Cake marry in Jacksonville and later travel to the Muck. During the hurricane, Tea Cake asks, &ldquo;Ah reckon you wish now you had of stayed in yo&rsquo; big house away from such as dis, dont yuh?&rdquo; Janie&rsquo;s (Hurston 159) firm denial reveals her transformation from object to actor: she would rather face danger with autonomy than live in comfort under control.',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
-                zoom: 8.00,
+                center: [-81.24261, 26.92939], 
+                zoom: 7.32,
                 pitch: 45.0,
                 bearing: 0.00
             },
