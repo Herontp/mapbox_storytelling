@@ -237,7 +237,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Salvage the Bones',
-            image: './assets/color_purple_field.jpg',
+            image: 'assets/salvage_the_bones_cover.jpg',
             description: 'For the past century, many Southern writers have been trying to escape the long shadow that Faulkner cast. While many writers tried to dance around it, Jesmyn Ward goes straight through it. Salvage the Bones can thus be seen as the 21st-century response to As I Lay Dying, ultimately affirming its message about the complexities of “simple” folk while dismantling other prejudices that Faulkner inadvertently relied on.',
             location: {
                 center: [-89.68775, 30.01698], 
