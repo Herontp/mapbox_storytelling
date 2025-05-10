@@ -80,7 +80,7 @@ var config = {
             hidden: false,
             title: 'As I Lay Dying',
             image: 'assets/as_i_lay_dying.jpg',
-            description: 'Unlike the wealthy landowners who previously dominated Southern literature, the Bundrens’ economic transactions are minor in scale but no less significant in impact. These exchanges range from the serious, such as Dewey Dell’s desperate attempt to obtain money for an abortion, to the seemingly trivial, like Anse’s purchase of false teeth. Crucially, however, these purchases represent a deliberate choice. With this, Faulkner grants agency to characters who, in earlier Southern literature, might have existed only as part of the background or landscape.',
+            description: 'Unlike the wealthy landowners who previously dominated Southern literature, the Bundrens’ economic transactions are minor in scale but no less significant in impact. These exchanges range from the serious, such as Dewey Dell’s desperate plans for an abortion, to the seemingly trivial, like Anse’s purchase of false teeth. Crucially, however, these purchases represent a deliberate choice. With this, Faulkner grants agency to characters who, in earlier Southern literature, might have existed only as part of the background or landscape.',
             location: {
                 center:[-89.52501, 34.32061],
                 zoom: 11.75,
@@ -219,7 +219,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple',
             image: 'assets/firestone_farm.jpg',
-            description: 'The Color Purple’s dramatically alters what constitutes the “South.” While Celie initially remains constrained in Georgia, Nettie&rsquo;s missionary journey to Africa creates a link between the American South and the Global South, connecting marginalized peoples worldwide. This expanded mobility shatters the view of Black characters as stationary. Furthermore, Nettie&rsquo;s letters reveal parallel systems of exploitation: just as slavery exploited Black Americans, imperialism extracts African resources while imposing foreign cultural values.',
+            description: 'The Color Purple dramatically alters what constitutes the “South.” While Celie initially remains constrained in Georgia, Nettie&rsquo;s missionary journey to Africa creates a link between the American South and the Global South, connecting marginalized peoples worldwide. This expanded mobility shatters the view of Black characters as stationary. Furthermore, Nettie&rsquo;s letters reveal parallel systems of exploitation: just as slavery exploited Black Americans, imperialism extracts African resources and labor.',
             location: {
                 center: [-10.81671, 6.35601], 
                 zoom: 9.27,
@@ -275,7 +275,7 @@ var config = {
             alignment: 'Center',
             hidden: false,
             title: 'Conclusion',
-            image: 'assets/coltons_map_southern_states_intro.jpg',
+            image: './assets/coltons_map_southern_states_intro.jpg',
             description: 'In William Faulkner’s acceptance speech for the Nobel Prize, he said, “I believe that man will not merely endure: he will prevail.” and it is the writer’s “privilege to help man endure by lifting his heart, by reminding him of the courage and honor and hope and pride and compassion and pity and sacrifice which have been the glory of his past.” This duty of the writer demands absolute honesty about the human condition, even when that honesty lays bare the ugliness of life, whether it be economic exploitation, sexual or racial oppression, or environmental devastation. <br> These four novels show how Southern literature evolved from romanticized portraits of plantation life to increasingly truthful depictions of existence. Faulkner began this transformation by granting dignity and complexity to the Bundren family, while Hurston, Walker, and Ward expanded it by centering marginalized individuals with complex lives. Their collective insistence on depicting both the harsh reality and meaningful choices makes these works significant; they help humanity not merely to endure, but to prevail, telling the truth about both our shortcomings and our unending march toward freedom.',
             location: {
                 center: [-41.47212470646295, 34.781162343274076], 
