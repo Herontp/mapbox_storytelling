@@ -173,12 +173,12 @@ var config = {
             id: 'chapter-five',
             alignment: 'right',
             hidden: false,
-            title: 'new title',
-            image: '512px-Keezell_Hall_(JMU).jpg',
-            description: 'new description',
+            title: 'The Color Purple',
+            image: 'assets/color_purple_cover.jpg',
+            description: 'Alice Walker’s The Color Purple traces the protagonist Celie’s journey from near-total powerlessness to self-defined independence in the early-to-mid 20th century American South. At the beginning of the novel, Celie exemplifies the erasure of agency, often lacking even the language to articulate the abuse she suffers. Over time, however, she gradually reclaims her voice and autonomy, largely through the support of other women. This transformation allows her to shift from a figure relegated to the margins of society to someone who actively shapes her own future. In doing so, Celie’s story directly challenges Southern literary traditions that have ignored the agency of Black women.',
             location: {
-                center: [-78.87287632435259, 38.43871122711081], 
-                zoom: 6.5,
+                center: [-83.56989, 32.93096], 
+                zoom: 8.27,
                 pitch: 60,
                 bearing: -43.2,
                 // flyTo additional controls-
