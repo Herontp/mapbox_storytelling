@@ -202,9 +202,9 @@ var config = {
             image: './assets/color_purple_field.jpg',
             description: 'Unlike Janie in Their Eyes Were Watching God, Celie’s journey toward agency is inseparable from her economic evolution. In her marriage to Albert, she functions as unpaid labor with no control over household resources. She also lacks freedom of movement and remains stuck in rural Georgia. However, as Celie’s relationship with Shug Avery progresses, she gains knowledge (learning of Nettie&rsquo;s hidden letters), economic skills (developing her pants-making business), freedom of movement (travelling to Memphis), and eventual property ownership (inheriting her biological father&rsquo;s house). Celie’s consummate act of agency, in my opinion, is her forgiveness. She has every reason to be bitter at the world, and yet, she “thank[s] God let me gain understanding enough to know love can&rsquo;t be halted just cause some peoples moan and groan” (Walker 267-8) Despite the hopelessness of Celie’s initial position, the novel concludes with a powerful sense of hope and renewal.',
             location: {
-                center: [-87.32405, 33.78750], 
-                zoom: 6.30,
-                pitch: 10,
+                center: [-87.85153, 34.30318], 
+                zoom: 6.25,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -219,10 +219,10 @@ var config = {
             hidden: false,
             title: 'The Color Purple',
             image: 'assets/firestone_farm.jpg',
-            description: 'The Color Purple’s most dramatic overhaul is in what constitutes the “South.” While Celie initially remains constrained in Georgia, Nettie&rsquo;s missionary journey to Africa creates a link between the American South and the Global South, connecting marginalized peoples worldwide. This expanded mobility shatters the view of Black characters as stationary. Furthermore, Nettie&rsquo;s letters reveal parallel systems of exploitation: just as slavery exploited Black Americans, imperialism extracts African resources while imposing foreign cultural values.',
+            description: 'The Color Purple’s dramatically alters what constitutes the “South.” While Celie initially remains constrained in Georgia, Nettie&rsquo;s missionary journey to Africa creates a link between the American South and the Global South, connecting marginalized peoples worldwide. This expanded mobility shatters the view of Black characters as stationary. Furthermore, Nettie&rsquo;s letters reveal parallel systems of exploitation: just as slavery exploited Black Americans, imperialism extracts African resources while imposing foreign cultural values.',
             location: {
-                center: [-41.47212412346295, 34.781162343274076], 
-                zoom: 3,
+                center: [-10.81671, 6.35601], 
+                zoom: 9,27,
                 pitch: 30,
                 bearing: 0
             },
@@ -240,9 +240,9 @@ var config = {
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
-                center: [-41.47212410656295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
+                center: [-89.20807, 29.86300], 
+                zoom: 8.81,
+                pitch: 00,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
