@@ -69,7 +69,7 @@ var config = {
                 //curve: 1, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -127,7 +127,7 @@ var config = {
         },
         {
             id: 'chapter-four',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: 'assets/their_eyes_were_watching_god_cover.jpeg',
@@ -164,13 +164,13 @@ var config = {
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
         },
 {
-            id: 'chapter-five',
+            id: 'chapter-six',
             alignment: 'right',
             hidden: false,
             title: 'The Color Purple',
@@ -195,10 +195,10 @@ var config = {
             onChapterExit: []
         },        
         {
-            id: 'chapter-six',
-            alignment: 'left',
+            id: 'chapter-seven',
+            alignment: 'center',
             hidden: false,
-            title: 'six',
+            title: 'The Color Purple',
             image: './assets/color_purple_field.jpg',
             description: 'Unlike Janie in Their Eyes Were Watching God, Celie’s journey toward agency is inseparable from her economic evolution. In her marriage to Albert, she functions as unpaid labor with no control over household resources. She also lacks freedom of movement and remains stuck in rural Georgia. However, as Celie’s relationship with Shug Avery progresses, she gains knowledge (learning of Nettie&rsquo;s hidden letters), economic skills (developing her pants-making business), freedom of movement (travelling to Memphis), and eventual property ownership (inheriting her biological father&rsquo;s house).',
             location: {
@@ -208,13 +208,13 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
         },
         {
-            id: 'chapter-seven',
+            id: 'chapter-eight',
             alignment: 'right',
             hidden: false,
             title: 'seven',
