@@ -156,7 +156,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: 'assets/their_eyes_were_watching_god_cover.jpeg',
-            description: 'Jody&rsquo;s death marks a crucial turning point in Janie&rsquo;s pursuit of agency. Her third husband, Tea Cake, offers her significantly more freedom. Money flows in both directions, as Tea Cake takes from her savings but also shares his gambling winnings, ultimately creating a relationship where Janie is able to make independent financial decisions. For her, this sense of agency matters more than the material security that came with submission in previous relationships. Her physical movement also reflects this shift, as she and Tea Cake marry in Jacksonville and later travel to the Muck. During the hurricane, Tea Cake asks, &ldquo;Ah reckon you wish now you had of stayed in yo&rsquo; big house away from such as dis, dont yuh?&rdquo; (Hurston 159) Janie&rsquo;s firm denial reveals her transformation from object to actor: she would rather face danger with autonomy than live in comfort under control.',
+            description: 'Jody&rsquo;s death marks a crucial turning point in Janie&rsquo;s pursuit of agency. Her third husband, Tea Cake, offers her significantly more freedom. Money flows in both directions, as Tea Cake takes from her savings but also shares his gambling winnings, ultimately creating a relationship where Janie is able to make independent financial decisions. For her, this sense of agency matters more than the material security that came with submission in previous relationships. Her physical movement also reflects this shift, as she and Tea Cake marry in Jacksonville and later travel to the Muck. During the hurricane, Tea Cake asks, &ldquo;Ah reckon you wish now you had of stayed in yo&rsquo; big house away from such as dis, dont yuh?&rdquo; (Hurston 159) Janie&rsquo;s firm denial reveals her transformation from object to actor: she would rather face danger freely than live in comfort under control.',
             location: {
                 center: [-81.24261, 26.92939], 
                 zoom: 7.32,
@@ -175,7 +175,7 @@ var config = {
             hidden: false,
             title: 'The Color Purple',
             image: 'assets/color_purple_cover.jpg',
-            description: 'Alice Walker’s The Color Purple traces the protagonist Celie’s journey from near-total powerlessness to self-defined independence in the early-to-mid 20th century American South. At the beginning of the novel, Celie exemplifies the erasure of agency, often lacking even the language to articulate the abuse she suffers. Over time, however, she gradually reclaims her voice and autonomy, largely through the support of other women. This transformation allows her to shift from a figure relegated to the margins of society to someone who actively shapes her own future. In doing so, Celie’s story directly challenges Southern literary traditions that have ignored the agency of Black women.',
+            description: 'Alice Walker’s The Color Purple traces the protagonist Celie’s journey from near-total powerlessness to independence in the first half of the 20th century South. At the beginning of the novel, Celie exemplifies the erasure of agency, often lacking even the language to articulate the abuse she suffers. Over time, however, she gradually reclaims her voice and autonomy, largely through the support of other women. This transformation allows her to shift from a figure relegated to the margins of society to someone who actively shapes her own future. In doing so, Celie’s story directly challenges Southern literary traditions that have ignored the agency of Black women.',
             location: {
                 center: [-83.56989, 32.93096], 
                 zoom: 8.27,
@@ -233,15 +233,15 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-eight',
-            alignment: 'centered',
+            id: 'chapter-nine',
+            alignment: 'left',
             hidden: false,
-            title: 'eight',
+            title: 'Salvage the Bones',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'For the past century, many Southern writers have been trying to escape the long shadow that Faulkner cast. While many writers tried to dance around it, Jesmyn Ward goes straight through it. Salvage the Bones can thus be seen as the 21st-century response to As I Lay Dying, ultimately affirming its message about the complexities of “simple” folk while dismantling other prejudices that Faulkner inadvertently relied on.',
             location: {
-                center: [-89.20807, 29.86300], 
-                zoom: 8.81,
+                center: [-89.68775, 30.01698], 
+                zoom: 8.47,
                 pitch: 0,
                 bearing: 0
             },
