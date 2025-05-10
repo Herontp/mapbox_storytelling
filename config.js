@@ -156,7 +156,7 @@ var config = {
             hidden: false,
             title: 'Their Eyes Were Watching God',
             image: 'assets/their_eyes_were_watching_god_cover.jpeg',
-            description: 'Description of the Olinka people',
+            description: 'Jody&rsquo;s death marks a crucial turning point in Janie&rsquo;s pursuit of agency. Her third husband, Tea Cake, offers her significantly more freedom. Money flows in both directions, as Tea Cake takes from her savings but also shares his gambling winnings, ultimately creating a relationship where Janie is able to make independent financial decisions. For her, this sense of agency matters more than the material security that came with submission in previous relationships. Her physical movement also reflects this shift, as she and Tea Cake marry in Jacksonville and later travel to the Muck. During the hurricane, Tea Cake asks, &ldquo;Ah reckon you wish now you had of stayed in yo&rsquo; big house away from such as dis, dont yuh?&rdquo; Janie&rsquo;s (Hurston 159) firm denial reveals her transformation from object to actor: she would rather face danger with autonomy than live in comfort under control.',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
