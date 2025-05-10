@@ -18,7 +18,7 @@ var config = {
     title: 'Economic Agency and Mobility in the Postbellum American South',
     subtitle: 'An analysis of economics and movement in the novels As I Lay Dying, Their Eyes Were Watching God, The Color Purple, and Salvage the Bones',
     byline: 'Tyler Heron',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: ' <ul> <li>Faulkner, William. “As I Lay Dying: The Corrected Text.” Vintage, 1990</li> <li>Hurston, Zora Neale. “Their Eyes Were Watching God.” Harper Perennial Modern Classics, 2006.</li> <li>Walker, Alice. “The Color Purple: A Novel.” Penguin Classics, Ward,2011. </li> <li>Jesmyn. “Salvage the Bones: A Novel.” Bloomsbury, 2021.</li> <li> Faulkner, William – “Banquet speech”. Nobel Prize, 1950.</li> </ul> <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'opening',
