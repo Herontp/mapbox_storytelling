@@ -200,11 +200,11 @@ var config = {
             hidden: false,
             title: 'six',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: 'Unlike Janie in Their Eyes Were Watching God, Celie’s journey toward agency is inseparable from her economic evolution. In her marriage to Albert, she functions as unpaid labor with no control over household resources. She also lacks freedom of movement and remains stuck in rural Georgia. However, as Celie’s relationship with Shug Avery progresses, she gains knowledge (learning of Nettie&rsquo;s hidden letters), economic skills (developing her pants-making business), freedom of movement (travelling to Memphis), and eventual property ownership (inheriting her biological father&rsquo;s house).',
             location: {
-                center: [-41.47212489646295, 34.781162343274076], 
-                zoom: 3,
-                pitch: 30,
+                center: [-87.32405, 33.78750], 
+                zoom: 6.30,
+                pitch: 10,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
