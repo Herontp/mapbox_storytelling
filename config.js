@@ -17,7 +17,7 @@ var config = {
     auto: false,
     title: 'Economic Agency and Mobility in the Postbellum American South',
     subtitle: 'An analysis of economics and movement in the novels As I Lay Dying, Their Eyes Were Watching God, The Color Purple, and Salvage the Bones',
-    byline: 'Tyler Hero',
+    byline: 'Tyler Heron',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -222,7 +222,7 @@ var config = {
             description: 'The Color Purple’s dramatically alters what constitutes the “South.” While Celie initially remains constrained in Georgia, Nettie&rsquo;s missionary journey to Africa creates a link between the American South and the Global South, connecting marginalized peoples worldwide. This expanded mobility shatters the view of Black characters as stationary. Furthermore, Nettie&rsquo;s letters reveal parallel systems of exploitation: just as slavery exploited Black Americans, imperialism extracts African resources while imposing foreign cultural values.',
             location: {
                 center: [-10.81671, 6.35601], 
-                zoom: 9,27,
+                zoom: 9.27,
                 pitch: 30,
                 bearing: 0
             },
@@ -242,7 +242,7 @@ var config = {
             location: {
                 center: [-89.20807, 29.86300], 
                 zoom: 8.81,
-                pitch: 00,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
